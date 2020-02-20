@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "941811205022",
+    "firebase_url": "https://chatee-51024.firebaseio.com",
+    "project_id": "chatee-51024",
+    "storage_bucket": "chatee-51024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941811205022:android:88275d6e91eabb67fb4c8f",
+        "android_client_info": {
+          "package_name": "com.thaque.chatee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941811205022-98nsr0q4ie0mndt4nvr1ofke9btgjuja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7ou-m5YIJ1JHAGmMz3OFYRHcMfx4f5KM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941811205022-98nsr0q4ie0mndt4nvr1ofke9btgjuja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
