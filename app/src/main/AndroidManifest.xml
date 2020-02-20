@@ -20,6 +20,10 @@
         <activity
             android:name=".AuthActivity"
             android:windowSoftInputMode="adjustResize" />
+
+        <activity
+            android:name=".ChatActivity"
+            android:windowSoftInputMode="adjustResize" />
     </application>
 
 </manifest>
