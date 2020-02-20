@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "941811205022-dmahg3d8ia7j45tuhfnaebtlek9aiits.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thaque.chatee",
+            "certificate_hash": "7782df4ac9c4d71d1de86d57fe5cd9dc41c5f5af"
+          }
+        },
+        {
           "client_id": "941811205022-98nsr0q4ie0mndt4nvr1ofke9btgjuja.apps.googleusercontent.com",
           "client_type": 3
         }

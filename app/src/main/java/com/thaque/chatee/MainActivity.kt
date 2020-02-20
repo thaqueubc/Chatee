@@ -10,9 +10,9 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        val database = FirebaseDatabase.getInstance()
-        val myRef = database.getReference("message")
+        val database = FirebaseDatabase.getInstance().reference
+       // val myRef = database.getReference("message")
 
-        myRef.setValue("Hello World")
+        database.setValue("Hello World")
     }
 }
